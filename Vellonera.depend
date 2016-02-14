@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1451159392 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\vellonera\main.cpp
+	<iostream>
+	"Menu.h"
+
+1451291375 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\vellonera\include\menu.h
+
+1451336392 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\vellonera\src\cancion.cpp
+	"Cancion.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1451281942 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\vellonera\include\cancion.h
+	<string>
+
+1451289843 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\vellonera\src\vellonera.cpp
+	<iostream>
+	"Vellonera.h"
+	<string>
+	<sstream>
+	<windows.h>
+	<winuser.h>
+	"Menu.h"
+
+1451289843 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\vellonera\include\vellonera.h
+	"Cancion.h"
+
+1451296846 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\vellonera\src\menu.cpp
+	"Menu.h"
+	<iostream>
+	<windows.h>
+	<winuser.h>
+	<cstdlib>
+	<stdlib.h>
+	<sstream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	"Vellonera.h"
+	"Archivo.h"
+
+1451360476 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\vellonera\src\archivo.cpp
+	"Archivo.h"
+	<fstream>
+	<sstream>
+	<string>
+	<iostream>
+
+1451296182 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\vellonera\include\archivo.h
+	"Vellonera.h"
+
+1451159392 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea5\vellonera\main.cpp
+	<iostream>
+	"Menu.h"
+
+1451291375 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea5\vellonera\include\menu.h
+
+1451360476 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea5\vellonera\src\archivo.cpp
+	"Archivo.h"
+	<fstream>
+	<sstream>
+	<string>
+	<iostream>
+
+1451296182 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea5\vellonera\include\archivo.h
+	"Vellonera.h"
+
+1451289843 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea5\vellonera\include\vellonera.h
+	"Cancion.h"
+
+1451281942 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea5\vellonera\include\cancion.h
+	<string>
+
+1451336392 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea5\vellonera\src\cancion.cpp
+	"Cancion.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1451296846 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea5\vellonera\src\menu.cpp
+	"Menu.h"
+	<iostream>
+	<windows.h>
+	<winuser.h>
+	<cstdlib>
+	<stdlib.h>
+	<sstream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	"Vellonera.h"
+	"Archivo.h"
+
+1451289843 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea5\vellonera\src\vellonera.cpp
+	<iostream>
+	"Vellonera.h"
+	<string>
+	<sstream>
+	<windows.h>
+	<winuser.h>
+	"Menu.h"
+
